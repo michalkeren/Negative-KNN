@@ -17,4 +17,4 @@ _tested algorithm
 
 TrainingSet Accuracy: ___    (TrainingSet is also the testing set in that case)
 TestSet Accuracy: ___
----------------------------------
+
