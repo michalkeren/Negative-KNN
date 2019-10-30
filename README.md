@@ -9,7 +9,9 @@ Meaning for each item in the testing set, NEG_K neighbors from every class, that
 The program returns a calculation for either a data file, for instance "iris.data", or data in a form of two customized gaussians.
 
 In order to select the type of data and modify the variables ,scroll to the bottom of the .py file.
-After activating one of the main functions, run the program. 
+
+After activating one of the main functions, run the program.
+
 The program will print the accuracy results for each test in the following form:
 
 ---------------------------------
