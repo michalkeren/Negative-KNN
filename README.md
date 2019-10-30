@@ -12,9 +12,9 @@ In order to select the type of data and modify the variables ,scroll to the bott
 After activating one of the main functions, run the program. 
 The program will print the accuracy results for each test in the following form:
 
----------------------------------
+\n
 _tested algorithm 
 
-TrainingSet Accuracy: ___    (TrainingSet is also the testing set in that case)
+TrainingSet Accuracy: ___    (TrainingSet is also the testing set in that case)\n
 TestSet Accuracy: ___
 
