@@ -15,7 +15,7 @@ The program will print the accuracy results for each test in the following form:
 ---------------------------------
 
 
-_tested algorithm 
+_tested algorithm: 
 
 
 TrainingSet Accuracy: ___    (TrainingSet is also the testing set in that case)
