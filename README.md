@@ -1,5 +1,5 @@
 # Preview
-this program's goal is to assist in the research of professor Shai Avidan, testing the theory that "Negative KNN" might improve the performance of the classic classification algorithm- KNN, under some conditions, and also compare it to the "ENN & KNN" algorithm.
+This program's goal is to assist in the research of professor Shai Avidan, testing the theory that "Negative KNN" might improve the performance of the classic classification algorithm- KNN, under some conditions, and also compare it to the "ENN & KNN" algorithm.
 
 In Negative KNN, a selected amount of neighbors [NEG_K], are not included in the decision making of the classification process. Meaning for each item in the testing set, NEG_K neighbors from every class that are closest to the item, are ignored during the prediction process.
 
