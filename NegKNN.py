@@ -326,7 +326,7 @@ with_ENN=True
 
 #--- OPTION 1: data file ---#
 dataFileName = 'iris.data'
-dataFile_main(dataFileName,k,negative_k,with_noise,with_ENN)       # remove the '#' from the begining of this line to activate.
+#dataFile_main(dataFileName,k,negative_k,with_noise,with_ENN)       # remove the '#' from the begining of this line to activate.
 
 #---OPTION 2: data in a form of two Gaussians ---#
 mean1= 4
