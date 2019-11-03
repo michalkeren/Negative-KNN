@@ -323,7 +323,6 @@ with_noise=True
 with_ENN=True
 
 # ACTIVATE ONE FROM THE FOLLOWING OPTIONS:
-                                                                                                                         # SO THAT ONLY ONE STARTS WITH - '#'
 
 #--- OPTION 1: data file ---#
 dataFileName = 'iris.data'
